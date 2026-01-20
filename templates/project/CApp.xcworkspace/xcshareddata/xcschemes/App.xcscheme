@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "90BD9B6B2C06907D000DEBAB"
-               BuildableName = "App.app"
-               BlueprintName = "App"
-               ReferencedContainer = "container:App.xcodeproj">
+               BuildableName = "CApp.app"
+               BlueprintName = "CApp"
+               ReferencedContainer = "container:CApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -49,9 +49,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "90BD9B6B2C06907D000DEBAB"
-            BuildableName = "App.app"
-            BlueprintName = "App"
-            ReferencedContainer = "container:App.xcodeproj">
+            BuildableName = "CApp.app"
+            BlueprintName = "CApp"
+            ReferencedContainer = "container:CApp.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <Testables>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "90BD9B6B2C06907D000DEBAB"
-            BuildableName = "App.app"
+            BuildableName = "CApp.app"
             BlueprintName = "App"
-            ReferencedContainer = "container:App.xcodeproj">
+            ReferencedContainer = "container:CApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -89,9 +89,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "90BD9B6B2C06907D000DEBAB"
-            BuildableName = "App.app"
-            BlueprintName = "App"
-            ReferencedContainer = "container:App.xcodeproj">
+            BuildableName = "CApp.app"
+            BlueprintName = "CApp"
+            ReferencedContainer = "container:CApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

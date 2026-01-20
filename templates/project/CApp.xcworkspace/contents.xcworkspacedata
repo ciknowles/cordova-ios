@@ -20,6 +20,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:App.xcodeproj">
+      location = "group:CApp.xcodeproj">
    </FileRef>
 </Workspace>
