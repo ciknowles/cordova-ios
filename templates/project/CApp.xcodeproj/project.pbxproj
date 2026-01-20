@@ -171,7 +171,7 @@
 				9080B40D2C6DD79000078F33 /* config */,
 				9080B40E2C6DD7A100078F33 /* staging */,
 			);
-			path = App;
+			path = CApp;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -179,7 +179,7 @@
 /* Begin PBXNativeTarget section */
 		90BD9B6B2C06907D000DEBAB /* App */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 90BD9B852C06907E000DEBAB /* Build configuration list for PBXNativeTarget "App" */;
+			buildConfigurationList = 90BD9B852C06907E000DEBAB /* Build configuration list for PBXNativeTarget "CApp" */;
 			buildPhases = (
 				90BD9B682C06907D000DEBAB /* Sources */,
 				90BD9B692C06907D000DEBAB /* Frameworks */,
@@ -190,12 +190,12 @@
 			);
 			dependencies = (
 			);
-			name = App;
+			name = CApp;
 			packageProductDependencies = (
 				90A914582CA3D370003DB979 /* Cordova */,
 				90D82ABC2CF19AEA001383CF /* CordovaPlugins */,
 			);
-			productName = App;
+			productName = CApp;
 			productReference = 90BD9B6C2C06907D000DEBAB /* CApp.app */;
 			productType = "com.apple.product-type.application";
 		};
@@ -214,7 +214,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 90BD9B672C06907D000DEBAB /* Build configuration list for PBXProject "App" */;
+			buildConfigurationList = 90BD9B672C06907D000DEBAB /* Build configuration list for PBXProject "CApp" */;
 			compatibilityVersion = "Xcode 15.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -231,7 +231,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				90BD9B6B2C06907D000DEBAB /* App */,
+				90BD9B6B2C06907D000DEBAB /* CApp */,
 			);
 		};
 /* End PBXProject section */
@@ -506,7 +506,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		90BD9B672C06907D000DEBAB /* Build configuration list for PBXProject "App" */ = {
+		90BD9B672C06907D000DEBAB /* Build configuration list for PBXProject "CApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				90BD9B832C06907E000DEBAB /* Debug */,
@@ -515,7 +515,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		90BD9B852C06907E000DEBAB /* Build configuration list for PBXNativeTarget "App" */ = {
+		90BD9B852C06907E000DEBAB /* Build configuration list for PBXNativeTarget "CApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				90BD9B862C06907E000DEBAB /* Debug */,

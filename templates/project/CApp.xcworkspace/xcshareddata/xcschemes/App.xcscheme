@@ -73,7 +73,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "90BD9B6B2C06907D000DEBAB"
             BuildableName = "CApp.app"
-            BlueprintName = "App"
+            BlueprintName = "CApp"
             ReferencedContainer = "container:CApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
